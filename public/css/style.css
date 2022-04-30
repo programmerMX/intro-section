@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --almost-white: hsl(0, 0%, 98%);
+    --medium-gray: hsl(0, 0%, 41%);
+    --almost-black: hsl(0, 0%, 8%);
+    --font-family__500: 'Epilogue', sans-serif;
+    --font-family__700: 'Epilogue', sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+    height: 100vh;
+    width: 100vw;
+
+}
